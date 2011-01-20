@@ -1,4 +1,4 @@
-* Testing a remote app with Cucumber+Capybara
+# Testing a remote app with Cucumber+Capybara
 
 Granted, this is a really simple combination, but I ran into a few hurdles on my first attempt, and thought the world might benefit from my sharing this working minimal example.
 
